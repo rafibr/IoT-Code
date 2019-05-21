@@ -1,0 +1,26 @@
+# water level
+S = A0
+- = G
++ = 3V
+
+# ultrasonic
+GND = G
+Echo = pin
+Trigger = pin
+VCC = 3V
+
+# suara
+A0 = A0
+GND = G
++ = 3V
+
+# DHT11
+Data = pin
+VCC = 3V
+GND = G
+
+#DHT 11 versi 4 
+1 dari kiri = vcc
+2 dari kiri = data
+3 dari kiri = nc
+4 dari kiri = gnd
